@@ -7,7 +7,7 @@ footer {
 	text-align: center;
 }
 body {
-	background-image: url("gbr1.jpg");
+	background-image: url("http://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioHlhBxNSQzM/v1/750x-1.jpg");
 	background-position: right top;
 }
 h2 {
@@ -20,5 +20,8 @@ a:visited {
 	color: purple;
 }
 #country {
-	font: italic;
+	font-style: italic;
+}
+h3.fancy {
+	font-style: italic;
 }
