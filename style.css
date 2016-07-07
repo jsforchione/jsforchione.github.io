@@ -9,6 +9,8 @@ footer {
 body {
 	background-image: url("http://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioHlhBxNSQzM/v1/750x-1.jpg");
 	background-position: right top;
+	background-repeat: no-repeat;
+	padding: 35px;
 }
 h2 {
 	font-family: "Courier New";
