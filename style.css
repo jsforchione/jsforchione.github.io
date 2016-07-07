@@ -1,3 +1,12 @@
+ul {
+	border-style: groove;
+	padding: 50px 30px 50px 30px;
+	margin: 70px 30px 70px 30px;
+}
+footer {
+	text-align: center;
+}
 body {
-	background-color: blue;
+	background-image: url("gbr1.jpg");
+	background-position: right top;
 }
