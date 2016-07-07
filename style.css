@@ -7,7 +7,7 @@ footer {
 	text-align: center;
 }
 body {
-	background-image: url("http://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioHlhBxNSQzM/v1/750x-1.jpg");
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/99/81/25/9981256c2da72a88e633fe6f643a3218.jpg");
 	background-position: right bottom;
 	background-repeat: no-repeat;
 	padding: 35px;
@@ -26,4 +26,9 @@ a:visited {
 }
 h3.fancy {
 	font-style: italic;
+}
+@media screen and (max-width: 500px) {
+  h2 {
+    font-size: 12px;
+  }
 }
