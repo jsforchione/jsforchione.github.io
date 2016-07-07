@@ -1,7 +1,7 @@
 ul {
 	border-style: groove;
-	padding: 50px 30px 50px 30px;
-	margin: 70px 30px 70px 30px;
+	padding: 30px 30px 30px 30px;
+	margin: 5px 600px 20px 10px;
 }
 footer {
 	text-align: center;
@@ -9,4 +9,16 @@ footer {
 body {
 	background-image: url("gbr1.jpg");
 	background-position: right top;
+}
+h2 {
+	font-family: "Courier New";
+}
+p.font {
+	font-family: "Courier New";
+}
+a:visited {
+	color: purple;
+}
+#country {
+	font: italic;
 }
